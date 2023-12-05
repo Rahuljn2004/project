@@ -1,0 +1,120 @@
+*{
+    color: aliceblue;
+}
+.Main-section{
+    height: 375px;
+    width: 600px;
+    border: white solid;
+    border-radius: 25px;
+    padding: 5px;
+}
+
+.day12-data{
+    display:flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 15px;
+
+}
+
+.day1{
+    background: rgba(211, 182, 154, 0.744);
+    height: 85px;
+    width:230px;
+    border-radius: 12px;
+    font-size: small;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.day2{
+    background: rgba(211, 182, 154, 0.744);
+    height: 85px;
+    width:230px;
+    border-radius: 12px;
+    font-size: small;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.day34-data{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 15px;
+
+}
+
+.day3{
+    background: rgba(211, 182, 154, 0.744);
+    height: 85px;
+    width:230px;
+    border-radius: 12px;
+    font-size: small;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.day4{
+    background: rgba(211, 182, 154, 0.744);
+    height: 85px;
+    width:230px;
+    border-radius: 12px;
+    font-size: small;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.day5-data{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+.day5{
+    background: rgba(211, 182, 154, 0.744);
+    height: 85px;
+    width:240px;
+    border-radius: 12px;
+    font-size: small;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.day1 img{
+    border-radius: 50%;
+    margin-top: 5px;
+    height: 45px;
+    width: 45px;
+}
+
+.day2 img{
+    border-radius: 50%;
+    margin-top: 5px;
+    height: 45px;
+    width: 45px;
+}
+.day3 img{
+    border-radius: 50%;
+    margin-top: 5px;
+    height: 45px;
+    width: 45px;
+}
+.day4 img{
+    border-radius: 50%;
+    margin-top: 5px;
+    height: 45px;
+    width: 45px;
+}
+.day5 img{
+    border-radius: 50%;
+    margin-top: 5px;
+    height: 45px;
+    width: 45px;
+}
